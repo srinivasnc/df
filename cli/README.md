@@ -1,0 +1,1 @@
+Install [here](https://quickstart.pipeline.ai).
